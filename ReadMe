@@ -1,0 +1,4 @@
+1.  install docker
+2.  docker build Dockerfile
+3.  run: docker run -t -i -v /Users/tonylei/workspace/interview:/user/python python /bin/bash
+you need change /Users/tonylei/workspace/interview to your work path
